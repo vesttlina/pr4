@@ -1,0 +1,67 @@
+body {
+    height: 150px;
+    width: 119px;
+}
+
+.color {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border: 10px solid #efef17;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+
+.red{
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.orange {
+    width: 100px;
+    height: 150px;
+    background-color: orange;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.yellow {
+    width: 100px;
+    height: 150px;
+    background-color: yellow;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.green {
+    width: 100px;
+    height: 150px;
+    background-color: green;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.blue {
+    width: 100px;
+    height: 150px;
+    background-color: blue;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.indigo {
+    width: 100px;
+    height: 150px;
+    background-color: indigo;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
